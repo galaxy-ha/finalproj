@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AccessApp",
-    "slug": "AccessApp",
+    "name": "AccessApp2",
+    "slug": "accessapp2",
     "platforms": [
       "ios",
       "android",
@@ -9,7 +9,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/digital-lock.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
