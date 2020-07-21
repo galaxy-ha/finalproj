@@ -2926,6 +2926,14 @@ expo-sqlite@~8.1.0:
     "@types/websql" "^0.0.27"
     lodash "^4.17.15"
 
+expo-updates@^0.2.9:
+  version "0.2.11"
+  resolved "https://registry.yarnpkg.com/expo-updates/-/expo-updates-0.2.11.tgz#8131b191049c1384d83b9b992bb33c1d1d86e3c7"
+  integrity sha512-j3Zenpm7qdnECOQsCk3YMnR0hfBqchHEQ31/QhpgSbrX5zSWhO6kY+IyGQKeCNnpZc8GXyJIlEu5AfUvFe1UdQ==
+  dependencies:
+    fbemitter "^2.1.1"
+    uuid "^3.4.0"
+
 expo-web-browser@~8.2.1:
   version "8.2.1"
   resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-8.2.1.tgz#993ba53371862ed85cfd277ba59a7004ed412905"
@@ -3989,9 +3997,9 @@ lodash.throttle@^4.1.1:
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
 lodash@^4.0.0, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.6.0:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -5248,6 +5256,11 @@ react-native-screens@~2.2.0:
   integrity sha512-a0VzxOWot7F9B/GQyDSssBRd3jUJazFnTQS61IiyReWB6aHlFhf3Xz10jBRoURXy1EMCDCHgenmTVTkKHpKyqQ==
   dependencies:
     debounce "^1.2.0"
+
+react-native-simple-encryption@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/react-native-simple-encryption/-/react-native-simple-encryption-1.2.1.tgz#0e77435ec5cdb47a790c6e20d3f44908b0998745"
+  integrity sha1-DndDXsXNtHp5DG4g0/RJCLCZh0U=
 
 react-native-sms@^1.11.0:
   version "1.11.0"
